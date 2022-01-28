@@ -1,0 +1,19 @@
+{
+  "name": "Basic Bro 2",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
+        "share": 100
+      }
+    ]
+  }
+}

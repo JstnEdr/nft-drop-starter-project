@@ -1,0 +1,28 @@
+{
+  "program": {
+    "uuid": "DygcZh",
+    "candyMachine": "DygcZhMVr9TRUCtJfkDGTscTmNRPvghAkctSMWd61DqW"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/TyXAMTIb7FuDLrm4Aw68rgyvaSyHJIed4yqR1rN9DdE",
+      "name": "Basic Bro 0",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/FPrMAFEE5oyh01_tYCjfM99AEMBeiiVqEpWfCyXevLc",
+      "name": "Basic Bro 1",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/197N0zIG2xzqNbHtiOVgaqplpFqqAQyfZ52oCTY3Ktk",
+      "name": "Basic Bro 2",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}
