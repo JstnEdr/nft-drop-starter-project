@@ -1,18 +1,18 @@
 {
-  "name": "Hockey Labs Stick 2",
+  "name": "Hockey Labs Stick 9",
   "symbol": "",
-  "image": "1.png",
+  "image": "8.png",
   "properties": {
     "files": [
       {
-        "uri": "1.png",
+        "uri": "8.png",
         "type": "image/png"
       }
     ],
     "attributes": [
-      { "trait_type": "offence", "value": "30" },
-      { "trait_type": "defence", "value": "25" },
-      { "trait_type": "hockeySense", "value": "77" }
+      { "trait_type": "offence", "value": "83" },
+      { "trait_type": "defence", "value": "23" },
+      { "trait_type": "hockeySense", "value": "67" }
     ],
     "creators": [
       {
