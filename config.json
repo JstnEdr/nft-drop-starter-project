@@ -1,6 +1,6 @@
 {
-  "price": 0.1,
-  "number": 10,
+  "price": 0,
+  "number": 15,
   "gatekeeper": null,
   "solTreasuryAccount": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
   "splTokenAccount": null,
@@ -9,7 +9,7 @@
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
-  "storage": "arweave",
+  "storage": "nft-storage",
   "ipfsInfuraProjectId": null,
   "ipfsInfuraSecret": null,
   "awsS3Bucket": null,

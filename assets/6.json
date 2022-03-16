@@ -1,24 +1,39 @@
 {
-  "name": "Hockey Labs Stick 7",
-  "symbol": "",
-  "image": "6.png",
-  "properties": {
-    "files": [
-      {
-        "uri": "6.png",
-        "type": "image/png"
-      }
-    ],
-    "attributes": [
-      { "trait_type": "offence", "value": "55" },
-      { "trait_type": "defence", "value": "16" },
-      { "trait_type": "hockeySense", "value": "87" }
-    ],
-    "creators": [
-      {
-        "address": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
-        "share": 100
-      }
-    ]
-  }
+	"name": "Hockey Labs Stick 7",
+	"symbol": "HL",
+	"seller_fee_basis_points": 0,
+	"image": "6.png",
+	"description": "Hockey Labs Founders NFT",
+	"attributes": [
+		{
+			"trait_type": "offense",
+			"value": 69
+		},
+		{
+			"trait_type": "offense",
+			"value": 61
+		},
+		{
+			"trait_type": "hockeySense",
+			"value": 70
+		},
+		{
+			"trait_type": "material",
+			"value": "Wood"
+		}
+	],
+	"properties": {
+		"files": [
+			{
+				"type": "image/png",
+				"uri": "6.png"
+			}
+		],
+		"creators": [
+			{
+				"address": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
+				"share": 100
+			}
+		]
+	}
 }

@@ -1,32 +1,32 @@
 {
-	"name": "Hockey Labs Stick 4",
+	"name": "Hockey Labs Stick 15",
 	"symbol": "HL",
 	"seller_fee_basis_points": 0,
-	"image": "3.png",
+	"image": "14.png",
 	"description": "Hockey Labs Founders NFT",
 	"attributes": [
 		{
 			"trait_type": "offense",
-			"value": 43
+			"value": 68
 		},
 		{
 			"trait_type": "offense",
-			"value": 98
+			"value": 55
 		},
 		{
 			"trait_type": "hockeySense",
-			"value": 84
+			"value": 77
 		},
 		{
 			"trait_type": "material",
-			"value": "Carbon"
+			"value": "Wood"
 		}
 	],
 	"properties": {
 		"files": [
 			{
 				"type": "image/png",
-				"uri": "3.png"
+				"uri": "14.png"
 			}
 		],
 		"creators": [

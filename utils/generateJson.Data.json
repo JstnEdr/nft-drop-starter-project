@@ -1,0 +1,167 @@
+{
+  "columns": [
+    "filename",
+    "offense",
+    "defence",
+    "hockeySense",
+    "total",
+    "material"
+  ],
+  "rows": [
+    [
+      1,
+      89,
+      73,
+      88,
+      250,
+      "Gold"
+    ],
+    [
+      2,
+      48,
+      86,
+      91,
+      225,
+      "Carbon"
+    ],
+    [
+      3,
+      94,
+      68,
+      63,
+      225,
+      "Carbon"
+    ],
+    [
+      4,
+      43,
+      98,
+      84,
+      225,
+      "Carbon"
+    ],
+    [
+      5,
+      87,
+      45,
+      93,
+      225,
+      "Carbon"
+    ],
+    [
+      6,
+      79,
+      47,
+      74,
+      200,
+      "Wood"
+    ],
+    [
+      7,
+      69,
+      61,
+      70,
+      200,
+      "Wood"
+    ],
+    [
+      8,
+      85,
+      32,
+      83,
+      200,
+      "Wood"
+    ],
+    [
+      9,
+      78,
+      67,
+      55,
+      200,
+      "Wood"
+    ],
+    [
+      10,
+      48,
+      85,
+      67,
+      200,
+      "Wood"
+    ],
+    [
+      11,
+      64,
+      59,
+      77,
+      200,
+      "Wood"
+    ],
+    [
+      12,
+      82,
+      78,
+      40,
+      200,
+      "Wood"
+    ],
+    [
+      13,
+      63,
+      79,
+      58,
+      200,
+      "Wood"
+    ],
+    [
+      14,
+      80,
+      47,
+      73,
+      200,
+      "Wood"
+    ],
+    [
+      15,
+      68,
+      55,
+      77,
+      200,
+      "Wood"
+    ]
+  ],
+  "template": {
+    "name": "Hockey Labs Stick {{index}}",
+    "symbol": "HL",
+    "seller_fee_basis_points": 0,
+    "image": "{{index}}.png",
+    "description": "Hockey Labs Founders NFT",
+    "attributes": [
+      {
+        "trait_type": "offense",
+        "value": "{{offense}}"
+      },
+      {
+        "trait_type": "defence",
+        "value": "{{defence}}"
+      },
+      {
+        "trait_type": "hockeySense",
+        "value": "{{hockeysense}}"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "{{index}}.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
+          "share": 100
+        }
+      ]
+    }
+  }
+}
