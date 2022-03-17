@@ -31,11 +31,11 @@ const findAndReplace = (dataString) => {
                     value: row[1]
                 },
                 {
-                    trait_type: "offense",
+                    trait_type: "defense",
                     value: row[2]
                 },
                 {
-                    trait_type: "hockeySense",
+                    trait_type: "hockey sense",
                     value: row[3]
                 },
                 // {

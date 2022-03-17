@@ -35,7 +35,7 @@ Files must start with 0.png.
 
 - delete `.cache` directory
 - `ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/devnet.json -cp config.json ./assets`
--  
+- `ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e mainnet-beta -k ~/.config/solana/mainnet-beta.json -cp config.json ./assets`
 
 ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload \
     -e devnet \

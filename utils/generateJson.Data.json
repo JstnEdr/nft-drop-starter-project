@@ -141,7 +141,7 @@
         "value": "{{offense}}"
       },
       {
-        "trait_type": "defence",
+        "trait_type": "defense",
         "value": "{{defence}}"
       },
       {
@@ -158,7 +158,7 @@
       ],
       "creators": [
         {
-          "address": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
+          "address": "3HbvDEbKcxQxWBWtdxubLunVdsioNGYLxVD3LggFgBvv",
           "share": 100
         }
       ]

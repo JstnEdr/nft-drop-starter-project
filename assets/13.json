@@ -10,11 +10,11 @@
 			"value": 80
 		},
 		{
-			"trait_type": "offense",
+			"trait_type": "defense",
 			"value": 47
 		},
 		{
-			"trait_type": "hockeySense",
+			"trait_type": "hockey sense",
 			"value": 73
 		},
 		{
@@ -31,7 +31,7 @@
 		],
 		"creators": [
 			{
-				"address": "5HyhYzFhijtJsQVNwb6A3x7t5jjCGVhNa7P978X3SMaQ",
+				"address": "3HbvDEbKcxQxWBWtdxubLunVdsioNGYLxVD3LggFgBvv",
 				"share": 100
 			}
 		]
