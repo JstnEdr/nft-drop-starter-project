@@ -9,7 +9,7 @@
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
-  "storage": "arweave-sol",
+  "storage": "nft-storage",
   "ipfsInfuraProjectId": null,
   "ipfsInfuraSecret": null,
   "awsS3Bucket": null,
